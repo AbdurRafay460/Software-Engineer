@@ -1,0 +1,51 @@
+.one,.fifth
+{
+    color: rgba(6, 126, 86, 0.644);
+    background-color: #8a2be2;
+    font-size: 25px;
+    height: 50px;  
+    width: 140px;
+    font-weight: 900;    
+}
+
+.two,.six
+{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-weight: 100;
+    margin: 50px;
+    font-family: "Arial";
+
+}
+
+.three,.seven
+{
+    color:rgb(5, 5, 103);
+    background-color: rgba(186, 25, 116, 0.505);
+    font-weight: 500;
+    font-size: 25px;
+    height: 50px;  
+    width: 140px;
+}
+.one,.three,.fifth,.seven
+{
+    font-family:'Times New Roman';
+    border-radius: 40px;
+
+}
+p1
+{
+    font-weight: 300;
+}
+p2
+{
+   
+    font-weight: 700;
+
+}
+p3
+{
+  
+    font-weight: 900;
+}
+

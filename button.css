@@ -1,0 +1,22 @@
+button
+{
+    background-color: white;
+    border-color: blue;
+    cursor: pointer;
+
+}
+.one
+{
+    background-color: red;
+    border-color: red;
+    /* cursor: pointer; */
+
+}
+.two:hover
+{
+    background-color: white;
+    border-color: white;
+    border: none;
+    
+    /* cursor: pointer; */
+}

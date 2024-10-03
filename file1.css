@@ -1,0 +1,28 @@
+button
+{
+    background-color:White;
+    color:black;
+    font-size: 10px; 
+    font-family:  Arial;  
+    margin: 170;
+
+ 
+
+}  
+h1
+{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    line-height: 10px;
+ }
+p
+{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal; 
+    line-height: 60px;
+
+}
+

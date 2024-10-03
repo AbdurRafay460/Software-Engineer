@@ -1,0 +1,52 @@
+h1
+{
+    text-align: center; 
+    color: rgba(2, 0, 0, 0.7);   
+}
+
+*
+{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.navbar a
+{
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    display: block;
+    padding: 15px;
+    /* border :1px solid white;*/
+ 
+}
+
+.navbar a:hover
+{
+   background-color:rgb(0, 0, 0);
+}
+
+.navbar ul
+{
+    list-style-type: none;
+    background-color: rgb(65, 28, 65);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar li
+{
+    margin: 7px;
+    text-align: center;
+    float: left;
+}
+
+
+
